@@ -1,4 +1,3 @@
-import javax.xml.transform.SourceLocator;
 import java.util.Scanner;
  // Arrays -1D
 
@@ -15,3 +14,4 @@ public class Arrays{
         System.out.println( "The sum is:" + sum);
     }
 }
+
