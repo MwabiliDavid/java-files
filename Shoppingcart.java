@@ -1,4 +1,3 @@
-import javax.xml.transform.SourceLocator;
 import java.util.Scanner;
 public class Shoppingcart {
     public static void main(String[]args){
@@ -14,3 +13,4 @@ public class Shoppingcart {
         System.out.println("Total amount is:"+ total);
     }
 }
+
